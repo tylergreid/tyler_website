@@ -3,17 +3,19 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/UNH 1.jpg
 ---
 
 :::{#me}
 
 ## Goals
-asdfjkjlasdfj;
+My goal is to become a coder that is 10% as good as Faith. 
 
 ## Education
+I graduated from North Carolina State University with a degree in Biology in 2023.
 
 ## Experience
+I worked as a research technician for two years in a cotton genetics and breeding laboratory. My work included supporting breeding efforts, conducting field work such as planting and harvesting, and managing plant growth in controlled-environment settings.
 
 :::
 
