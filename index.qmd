@@ -9,7 +9,7 @@ about:
 :::{#me}
 
 ## Goals
-My goal is to become a coder that is 10% as good as Faith. 
+My goal is to become a coder that is 10% as good as Faith!
 
 ## Education
 I graduated from North Carolina State University with a degree in Biology in 2023.
