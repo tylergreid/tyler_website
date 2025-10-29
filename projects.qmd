@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 ## Project 1
+Managing a breeding program of Tartary buckwheat. Tartary buckwheat is less studied than common buckwheat, but it has a higher yield due to being self-compatible (i.e., it doesn't require pollinators to set seed). Due to this high potential, I am working on creating Tartary buckwheat varieties that are suited for New England conditions. So, traits aiming to be maximized are germination under wet environments as well as increased leaf size.
 
 ## Project 2
-
-## Project 3
+Conducting a field agronomy trial evaluating the growth of common and Tartary buckwheat varieties under varying management treatments. Assessing performance as both a cover and food crop.
