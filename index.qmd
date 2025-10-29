@@ -8,6 +8,8 @@ about:
 
 :::{#me}
 
+Hello! I'm a master's student at UNH. I'm currently conducting buckwheat research with the goal of increasing our understanding of the crop so its growth can be optimized. I'm hoping to also create new Tartary buckwheat varieties that can be released to farms in New England.
+
 ## Goals
 My goal is to become a coder that is 10% as good as Faith!
 
